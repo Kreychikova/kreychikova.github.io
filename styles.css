@@ -42,7 +42,7 @@ button:first-of-type {
 }
 
 a {
-    display: block;
+    display: box;
     margin-top: 30px;
-    text-align: center;
+    text-align: left;
 }
